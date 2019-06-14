@@ -12,7 +12,6 @@ import net.openid.appauth.*;
 
 public class MainActivity extends AppCompatActivity {
     private static final int RC_AUTH = 100;
-    private static final String LOGIN_HINT = "login_hint";
     private static final String CLIENT_ID = "native.code";
     private static final String USER_ID = "bob";
 
